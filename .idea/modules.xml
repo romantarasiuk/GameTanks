@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Game/BattleFieldElements/BattleFieldElements.iml" filepath="$PROJECT_DIR$/Game/BattleFieldElements/BattleFieldElements.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game/Game.iml" filepath="$PROJECT_DIR$/Game/Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GameTanks.iml" filepath="$PROJECT_DIR$/GameTanks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Game/TankTypes/TankTypes.iml" filepath="$PROJECT_DIR$/Game/TankTypes/TankTypes.iml" />
+    </modules>
+  </component>
+</project>
